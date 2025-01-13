@@ -5,7 +5,7 @@ import { FaSquareXTwitter } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
 
-export default function Navbar() {
+const Navbar = (): JSX.Element => {
   return (
     <nav
       className="mb-20 flex items-center justify-between py-6"
@@ -14,7 +14,7 @@ export default function Navbar() {
       <div className="flex flex-shrink-0 items-center">
         <img className="mx-2 w-10" src={logo} alt="logo" />
       </div>
-      <div className="m-8 flex itemsd-center justify-center gap-4 text-2xl">
+      <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         <FaLinkedin />
         <FaGithub />
         <FaSquareXTwitter />
@@ -23,4 +23,6 @@ export default function Navbar() {
       </div>
     </nav>
   );
-}
+};
+
+export default Navbar;

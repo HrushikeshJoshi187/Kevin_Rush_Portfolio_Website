@@ -14,9 +14,9 @@ const container = (delay: number) => ({
   },
 });
 
-export default function Hero() {
+const Hero = (): JSX.Element => {
   return (
-    <div className="border-b border-neutral-800 pb-24 lg:mb-35">
+    <div className="border-b border-neutral-800 pb-24 lg:mb-36">
       <div className="flex flex-wrap">
         <div className="w-full lg:w-1/2">
           <div className="flex flex-col items-center lg:items-start">
@@ -60,4 +60,6 @@ export default function Hero() {
       </div>
     </div>
   );
-}
+};
+
+export default Hero;

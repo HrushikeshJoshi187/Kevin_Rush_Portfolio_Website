@@ -14,12 +14,12 @@ const iconVariants = (duration: number) => ({
       duration: duration,
       ease: "linear",
       repeat: Infinity,
-      repeatType: "reverse" as "reverse",
+      repeatType: "reverse" as const,
     },
   },
 });
 
-export default function Technologies() {
+const Technologies = (): JSX.Element => {
   return (
     <div className="border-b border-neutral-800 pb-24">
       <motion.h2
@@ -87,4 +87,6 @@ export default function Technologies() {
       </motion.div>
     </div>
   );
-}
+};
+
+export default Technologies;

@@ -1,7 +1,7 @@
 import { PROJECTS } from "../constants";
 import { motion } from "framer-motion";
 
-export default function Projects() {
+const Projects = (): JSX.Element => {
   return (
     <div className="border-b border-neutral-900 pb-4">
       <motion.h2
@@ -49,4 +49,6 @@ export default function Projects() {
       ))}
     </div>
   );
-}
+};
+
+export default Projects;

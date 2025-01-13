@@ -2,7 +2,7 @@ import aboutIMG from "../assets/about.jpg";
 import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
 
-export default function About() {
+const About = (): JSX.Element => {
   return (
     <div className="border-b border-neutral-900 pb-4">
       <h1 className="my-20 text-center text-4xl">
@@ -33,4 +33,6 @@ export default function About() {
       </div>
     </div>
   );
-}
+};
+
+export default About;

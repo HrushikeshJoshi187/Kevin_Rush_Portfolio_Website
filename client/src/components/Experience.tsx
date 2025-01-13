@@ -1,7 +1,7 @@
 import { EXPERIENCES } from "../constants";
 import { motion } from "framer-motion";
 
-export default function Experience() {
+const Experience = (): JSX.Element => {
   return (
     <div className="border-b border-neutral-900 pb-4">
       <motion.h2
@@ -50,4 +50,6 @@ export default function Experience() {
       </div>
     </div>
   );
-}
+};
+
+export default Experience;
