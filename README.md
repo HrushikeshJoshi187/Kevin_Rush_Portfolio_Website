@@ -29,8 +29,12 @@ _(Embed your video or add a link to a YouTube video)_
 
 ## 📸 Screenshots
 
-![Website Screenshot](./screenshot.png)  
-_(Add screenshots of your project to make the README more visually engaging)_
+![About Section](./project_implementation/photos/about_section.png)  
+![Contact Section](./project_implementation/photos/contact_section.png)  
+![Experience Section](./project_implementation/photos/experience_section.png)  
+![Hero Section](./project_implementation/photos/hero_section_and_navbar.png)  
+![Projects Section](./project_implementation/photos/projects_section.png)  
+![Technologies Section](./project_implementation/photos/technologies_section.png)
 
 ---
 
