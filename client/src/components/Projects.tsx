@@ -1,4 +1,4 @@
-import { PROJECTS } from "../constants";
+import { PROJECTS } from "../constants/index.ts";
 import { motion } from "framer-motion";
 
 const Projects = (): JSX.Element => {

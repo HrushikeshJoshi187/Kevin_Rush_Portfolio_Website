@@ -1,4 +1,4 @@
-import { CONTACT } from "../constants";
+import { CONTACT } from "../constants/index.ts";
 import { motion } from "framer-motion";
 
 const Contact = (): JSX.Element => {

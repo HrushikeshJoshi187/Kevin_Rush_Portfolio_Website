@@ -1,5 +1,5 @@
 import aboutIMG from "../assets/about.jpg";
-import { ABOUT_TEXT } from "../constants";
+import { ABOUT_TEXT } from "../constants/index.ts";
 import { motion } from "framer-motion";
 
 const About = (): JSX.Element => {
