@@ -4,6 +4,8 @@ Excited to share my sleek and responsive portfolio website! 🚀
 
 This project was a hands-on way to learn **TailwindCSS**, **Framer Motion**, and **TypeScript**, inspired by the incredible [compiletab tutorial](https://www.youtube.com/watch?v=_63mEm3AMSY&t=29s). Their stunning design choices, like gradient backgrounds and typography, served as the perfect foundation for creating a captivating website.
 
+Tutorial link: https://www.youtube.com/watch?v=_63mEm3AMSY&t=29s
+
 ## 🌐 Deployed Website
 
 Check out the live version of the website here:  
@@ -13,8 +15,8 @@ Check out the live version of the website here:
 
 Here’s a quick walkthrough of the website in action:
 
-_(Embed your video or add a link to a YouTube video)_  
 [![Demo Video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[Website Demo Video](./project_implementation/videos/website.mkv)
 
 ---
 
@@ -29,12 +31,29 @@ _(Embed your video or add a link to a YouTube video)_
 
 ## 📸 Screenshots
 
-![About Section](./project_implementation/photos/about_section.png)  
-![Contact Section](./project_implementation/photos/contact_section.png)  
-![Experience Section](./project_implementation/photos/experience_section.png)  
-![Hero Section](./project_implementation/photos/hero_section_and_navbar.png)  
-![Projects Section](./project_implementation/photos/projects_section.png)  
+### Hero Section
+
+![Hero Section](./project_implementation/photos/hero_section_and_navbar.png)
+
+### About Section
+
+![About Section](./project_implementation/photos/about_section.png)
+
+### Technologies Section
+
 ![Technologies Section](./project_implementation/photos/technologies_section.png)
+
+### Experience Section
+
+![Experience Section](./project_implementation/photos/experience_section.png)
+
+### Projects Section
+
+![Projects Section](./project_implementation/photos/projects_section.png)
+
+### Contact Section
+
+![Contact Section](./project_implementation/photos/contact_section.png)
 
 ---
 
