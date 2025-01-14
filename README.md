@@ -15,8 +15,8 @@ Check out the live version of the website here:
 
 Here’s a quick walkthrough of the website in action:
 
-[![Demo Video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
-[Website Demo Video](./project_implementation/videos/website.mkv)
+
+![Hero Section](./project_implementation/videos/website.webp)
 
 ---
 
