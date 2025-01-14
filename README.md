@@ -9,7 +9,7 @@ Tutorial link: https://www.youtube.com/watch?v=_63mEm3AMSY&t=29s
 ## 🌐 Deployed Website
 
 Check out the live version of the website here:  
-🔗 [https://hrushi-portfolio-demo.com](https://kevinrushportfoliowebsite.netlify.app)
+🔗 [https://kevinrushportfoliowebsite.netlify.app](https://kevinrushportfoliowebsite.netlify.app)
 
 ## 🎥 Demo Video
 
