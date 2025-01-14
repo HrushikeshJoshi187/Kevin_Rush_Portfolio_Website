@@ -9,12 +9,11 @@ Tutorial link: https://www.youtube.com/watch?v=_63mEm3AMSY&t=29s
 ## 🌐 Deployed Website
 
 Check out the live version of the website here:  
-🔗 [https://hrushi-portfolio-demo.com](https://hrushi-portfolio-demo.com)
+🔗 [https://hrushi-portfolio-demo.com](https://kevinrushportfoliowebsite.netlify.app)
 
 ## 🎥 Demo Video
 
 Here’s a quick walkthrough of the website in action:
-
 
 ![Hero Section](./project_implementation/videos/website.webp)
 
@@ -71,7 +70,7 @@ Here’s a quick walkthrough of the website in action:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/HrushikeshJoshi187/Hrushi_Joshi_Portfolio_Website_001.git
+   git clone https://github.com/HrushikeshJoshi187/Kevin_Rush_Portfolio_Website.git
    ```
 
 2. Navigate to the project folder:
@@ -96,7 +95,7 @@ Open your browser and navigate to http://localhost:5173 (default Vite localhost)
 
 ## 📁 Explore the Project
 
-🔗 GitHub Repository: https://github.com/HrushikeshJoshi187/Hrushi_Joshi_Portfolio_Website_001
+🔗 GitHub Repository: https://github.com/HrushikeshJoshi187/Kevin_Rush_Portfolio_Website
 
 🎉 Acknowledgments
 A huge shoutout to compiletab for their fantastic tutorial. If you're looking to learn TailwindCSS and Framer Motion, this is the guide to follow!
