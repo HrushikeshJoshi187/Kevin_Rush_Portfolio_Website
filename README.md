@@ -15,7 +15,7 @@ Check out the live version of the website here:
 
 Here’s a quick walkthrough of the website in action:
 
-![Hero Section](./project_implementation/videos/website.webp)
+![Website_Demo](./project_implementation/videos/website.webp)
 
 ---
 
