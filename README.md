@@ -1,8 +1,8 @@
-# Hrushi Joshi Portfolio Website 🌟
+# Kevin Rush Portfolio Website 🌟
 
 Excited to share my sleek and responsive portfolio website! 🚀
 
-This project was a hands-on way to learn **TailwindCSS**, **Framer Motion**, and **TypeScript**, inspired by the incredible [compiletab tutorial](https://www.youtube.com/watch?v=_63mEm3AMSY&t=29s). Their stunning design choices, like gradient backgrounds and typography, served as the perfect foundation for creating a captivating website.
+This project was a hands-on way to learn **TailwindCSS**, **Framer Motion**, and **TypeScript**, inspired by the incredible [compiletab tutorial](https://www.youtube.com/watch?v=_63mEm3AMSY&t=29s). Their stunning design choices, like gradient backgrounds and typography, were the perfect foundation for creating a captivating website.
 
 Tutorial link: https://www.youtube.com/watch?v=_63mEm3AMSY&t=29s
 
