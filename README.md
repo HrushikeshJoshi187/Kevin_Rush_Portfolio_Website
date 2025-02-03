@@ -60,31 +60,31 @@ Mobile version of website in action:
 
 ### Mobile Navigation Bar
 
-![Mobile Navigation Bar](./project_implementation/photos/mobile_navbar.png)
+![Mobile Navigation Bar](./project_implementation/photos/mobile_navbar.jpg)
 
 ### Mobile Hero Section
 
-![Mobile Hero Section](./project_implementation/photos/mobile_hero_section.png)
+![Mobile Hero Section](./project_implementation/photos/mobile_hero_section.jpg)
 
 ### Mobile About Section
 
-![Mobile About Section](./project_implementation/photos/mobile_about_section.png)
+![Mobile About Section](./project_implementation/photos/mobile_about_section.jpg)
 
 ### Mobile Technologies Section
 
-![Mobile Technologies Section](./project_implementation/photos/mobile_technologies_section.png)
+![Mobile Technologies Section](./project_implementation/photos/mobile_technologies_section.jpg)
 
 ### Mobile Experience Section
 
-![Mobile Experience Section](./project_implementation/photos/mobile_experience_section.png)
+![Mobile Experience Section](./project_implementation/photos/mobile_experience_section.jpg)
 
 ### Mobile Projects Section
 
-![Mobile Projects Section](./project_implementation/photos/mobile_projects_section.png)
+![Mobile Projects Section](./project_implementation/photos/mobile_projects_section.jpg)
 
 ### Mobile Contact Section
 
-![Mobile Contact Section](./project_implementation/photos/mobile_contact_section.png)
+![Mobile Contact Section](./project_implementation/photos/mobile_contact_section.jpg)
 
 ---
 
