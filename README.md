@@ -17,6 +17,10 @@ Here’s a quick walkthrough of the website in action:
 
 ![Website Demo](./project_implementation/videos/website.webp)
 
+Mobile version of website in action:
+
+![Mobile Website Demo](./project_implementation/videos/mobile_website.webp)
+
 ---
 
 ## 🚀 Features
@@ -53,6 +57,34 @@ Here’s a quick walkthrough of the website in action:
 ### Contact Section
 
 ![Contact Section](./project_implementation/photos/contact_section.png)
+
+### Mobile Navigation Bar
+
+![Mobile Navigation Bar](./project_implementation/photos/mobile_navbar.png)
+
+### Mobile Hero Section
+
+![Mobile Hero Section](./project_implementation/photos/mobile_hero_section.png)
+
+### Mobile About Section
+
+![Mobile About Section](./project_implementation/photos/mobile_about_section.png)
+
+### Mobile Technologies Section
+
+![Mobile Technologies Section](./project_implementation/photos/mobile_technologies_section.png)
+
+### Mobile Experience Section
+
+![Mobile Experience Section](./project_implementation/photos/mobile_experience_section.png)
+
+### Mobile Projects Section
+
+![Mobile Projects Section](./project_implementation/photos/mobile_projects_section.png)
+
+### Mobile Contact Section
+
+![Mobile Contact Section](./project_implementation/photos/mobile_contact_section.png)
 
 ---
 
